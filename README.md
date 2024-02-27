@@ -22,7 +22,7 @@ This application consists of multiple microservices that work together to achiev
 
 ## Getting Started
 
-1. **Clone the repositor:**
+1. **Clone the repository:**
 
     ```bash
     git clone https://github.com/princeSoftsages/microservice-spring-boot.git
